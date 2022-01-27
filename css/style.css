@@ -538,8 +538,11 @@ i {
     width: 100%;
     background-color: #f7e020;
   }
-  .grid > p {
+  .foot, .footer-last {
     font-size: 1rem;
+  }
+  .av {
+    font-size: 1.3rem;
   }
 }
 /*# sourceMappingURL=style.css.map */
